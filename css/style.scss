@@ -1,0 +1,24 @@
+$color-primary-0: #4E9231;	// Main Primary color */
+$color-primary-1: #98CE81;
+$color-primary-2: #70B054;
+$color-primary-3: #327416;
+$color-primary-4: #1C5604;
+
+$color-secondary-0: #236267;	// Main Secondary color */
+$color-secondary-1: #5C8D92;
+$color-secondary-2: #3D777D;
+$color-secondary-3: #104D52;
+$color-secondary-4: #03383D;
+
+$color-tertiary-0: #96A537;	// Main tertiary color */
+$color-tertiary-1: #DDE992;
+$color-tertiary-2: #B9C760;
+$color-tertiary-3: #748319;
+$color-tertiary-4: #546104;
+
+html {
+  display: block;
+  width: 100%;
+  height: 100%;
+  background: $color-secondary-1;
+}
